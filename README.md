@@ -14,7 +14,7 @@ If there wasn't a page dedicated to the single best beverage in the world on a p
 #### - [Code Block](https://github.com/rai8d4/rayyan-iqbal-personal-site/blob/e59be97c2456a462903cc60cc7ce77a20d7790e4/codeblock.md)
 Click here for another page with a code block!
 
-#### - [Favorite Songs](
+#### - [Favorite Songs](https://github.com/rai8d4/rayyan-iqbal-personal-site/blob/93a6f7b2ce5eb5b1eb3da6419451ada519056caa/favoritesongs.md)
 Click here to find some of my favorite songs!
 
 #### - [Additional Information](
