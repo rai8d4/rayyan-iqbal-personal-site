@@ -11,7 +11,7 @@ Click above for a quick introduction about the developer of this personal resour
 
 If there wasn't a page dedicated to the single best beverage in the world on a project developed by Rayyan, send for help! Click above to learn a little about Rayyan's greatest passion!
 
-#### - [Code Block](
+#### - [Code Block](https://github.com/rai8d4/rayyan-iqbal-personal-site/blob/e59be97c2456a462903cc60cc7ce77a20d7790e4/codeblock.md)
 Click here for another page with a code block!
 
 #### - [Favorite Songs](
