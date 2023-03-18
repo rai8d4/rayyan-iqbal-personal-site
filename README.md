@@ -3,7 +3,7 @@ WELCOME, BIENVENIDOS, ASALAMULAIKUM, to My Personal Online Resource!
 
 ## Navigation Links:
 
-- [Developer Bio](
+- [Developer Bio](https://github.com/rai8d4/rayyan-iqbal-personal-site/blob/f96dcda273729f7ec92b6d3f663169944347c820/developerbio.md)
 
 Click above for a quick introduction about the developer of this personal resource, me! The amazing, wonderful, and extremely talented Rayyan Iqbal! 
 
