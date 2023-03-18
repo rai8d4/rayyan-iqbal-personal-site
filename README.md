@@ -1,7 +1,7 @@
 WELCOME, BIENVENIDOS, ASALAMULAIKUM, to My Personal Online Resource!
 ------------------------
 
-##Navigation Links:
+## Navigation Links:
 
 - Developer Bio
 
