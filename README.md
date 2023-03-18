@@ -3,7 +3,7 @@ WELCOME, BIENVENIDOS, ASALAMULAIKUM, to My Personal Online Resource!
 
 ## Navigation Links:
 
-- Developer Bio
+- [Developer Bio](
 
 Click above for a quick introduction about the developer of this personal resource, me! The amazing, wonderful, and extremely talented Rayyan Iqbal! 
 
